@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150mm" height="150mm" enable-background="new">
+  <defs>
+    <filter id="a">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="b">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="f">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="c">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="g">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="d">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="h">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="e">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+    <filter id="i">
+      <feBlend mode="darken" in2="BackgroundImage"/>
+    </filter>
+  </defs>
+  <g transform="translate(0 -520.866)" filter="url(#a)">
+    <rect width="424.16006" height="424.16006" x="53.667999" y="574.53418" fill="none" stroke="red" ry="15.360037"/>
+    <circle cx="163.00977" cy="873.40698" r="6.6227427" fill="none" stroke="red"/>
+    <circle cx="155.99998" cy="744.79968" r="6.6227427" fill="none" stroke="red" stroke-width="1.12853181" transform="matrix(.892 0 0 .8802 23.85 44.21)" filter="url(#a)"/>
+    <circle cx="359.4754" cy="906.69818" r="6.6227427" fill="none" stroke="red" stroke-width="1.12144399" transform="matrix(.8918 0 0 .8916 47.938 64.99)" filter="url(#a)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="1.12150168" transform="translate(69.188 35.945) scale(.8917)" filter="url(#a)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 24.42 -176.093)" filter="url(#b)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 -241.33 -176.093)" filter="url(#c)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 -241.33 89.655)" filter="url(#d)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 24.42 89.655)" filter="url(#e)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 68.71 -220.385)" filter="url(#f)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 -285.62 -220.385)" filter="url(#g)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 -285.62 133.946)" filter="url(#h)"/>
+    <circle cx="335.69891" cy="744.50555" r="6.6227427" fill="none" stroke="red" stroke-width="0.89713949" transform="matrix(1.1147 0 0 1.1146 68.71 133.946)" filter="url(#i)"/>
+    <text x="265.59543" y="775.98187" stroke-width="1px" style="line-height:125%" font-size="11.63888359px" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+      <tspan x="265.59543" y="775.98187" style="-inkscape-font-specification:'monospace Semi-Bold';text-align:center" font-weight="600" font-size="12.5px" font-family="monospace" text-anchor="middle">Ludovic Delafontaine</tspan><tspan x="265.59543" y="791.60687" style="-inkscape-font-specification:'monospace Semi-Bold';text-align:center" font-weight="600" font-size="12.5px" font-family="monospace" text-anchor="middle">RPi VESA support 1.0</tspan><tspan x="265.59543" y="807.23187" style="-inkscape-font-specification:'monospace Semi-Bold';text-align:center" font-weight="600" font-size="12.5px" font-family="monospace" text-anchor="middle">CC BY-SA 4.0</tspan>
+    </text>
+  </g>
+</svg>
